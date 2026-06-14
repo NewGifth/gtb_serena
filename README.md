@@ -69,7 +69,7 @@ L'objectif principal de ce projet est de proposer une solution permettant la sur
 
 ## Auteur
 
-Précieux Kasereka
+kolongo precieux 
 
 ## Encadrement académique
 
